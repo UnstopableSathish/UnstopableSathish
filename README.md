@@ -7,7 +7,8 @@
 <h1 align="center">Hi  I'm Sathish </h1>
 <h3 align="center"> Simplicity is the soul of efficiency. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. (App and Web Development)</h3>
 
- <img src ="https://user-images.githubusercontent.com/95607404/162607921-1ad2e91b-26d0-4cf9-a868-a4dd1ad1267c.gif" width="200" align="right"/>
+ <img src ="https://user-images.githubusercontent.com/95605767/164980675-42b7a114-d4dc-430d-bd97-0c00fb480ab6.gif
+" width="200" align="right"/>
 
 - 🔭 I’m currently working on **App Development**
 
